@@ -1,0 +1,1618 @@
+[{
+	"id": "curation/news/",
+	"type": "Section",
+	"header": "NBC News - Breaking News \u0026 Top Stories - Latest World, US \u0026 Local News",
+	"showMore": false,
+	"items": [{
+		"id": "ncna882326",
+		"type": "article",
+		"url": "https://www.nbcnews.com/politics/white-house/trump-s-summit-military-concession-kim-surprises-everyone-n882326",
+		"headline": "Mock: Trump's military concession to Kim surprises everyone ",
+		"published": "2018-06-12T17:22:00Z",
+		"tease": "https://media3.s-nbcnews.com/i/newscms/2018_24/2266861/171219-korea-us-military-mc-948_462627f82bc9447074c539e91a448ac5.JPG",
+		"summary": "North Korea has previously called the joint drills a \"grave provocation\" that could escalate the region \"to the brink of nuclear war.\"",
+		"label": "PENTAGON SHOCKED",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882326",
+				"news.headline": "Trump's military concession to Kim surprises everyone ",
+				"news.contentcategory": "politics",
+				"news.subcat1": "white-house",
+				"news.subcat2": "not available",
+				"news.subcat3": "global-power",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T14:29:34Z",
+				"news.modpagepublishdate": "2018-06-12T17:22:00Z",
+				"news.author": "Alexander Smith, Rachel Elbaum , Associated Press",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882361",
+		"type": "article",
+		"url": "https://www.nbcnews.com/politics/donald-trump/trump-doctrine-how-lose-friends-influence-enemies-n882361",
+		"headline": "Mock: The Trump Doctrine: How to lose friends and influence enemies",
+		"published": "2018-06-12T14:32:00Z",
+		"tease": "https://media1.s-nbcnews.com/i/newscms/2018_24/2462466/180612-trump-kim-jong-un-summit-mn-1000_19cccc3ec7c8aad7a97c19b7241072ce.jpg",
+		"summary": "In Singapore, Trump himself acknowledged the awkward split screen of the U.S. fighting its friends and playing nice with a despot long under American sanctions.",
+		"label": "NEWS ANALYSIS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882361",
+				"news.headline": "The Trump Doctrine: How to lose friends and influence enemies",
+				"news.contentcategory": "politics",
+				"news.subcat1": "donald-trump",
+				"news.subcat2": "not available",
+				"news.subcat3": "trump-effect",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T14:32:33Z",
+				"news.modpagepublishdate": "2018-06-12T14:32:00Z",
+				"news.author": "Jonathan Allen",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882256",
+		"type": "article",
+		"url": "https://www.nbcnews.com/politics/white-house/trump-kim-nuclear-summit-agreement-contains-no-new-promises-n882256",
+		"headline": "Mock: Trump's agreement with Kim contains no new promises",
+		"published": "2018-06-12T17:20:44Z",
+		"tease": "https://media3.s-nbcnews.com/i/newscms/2018_24/2462461/180612-trump-kim-summit-mn-0945_422730f9188c28d5829564d8cad01373.jpg",
+		"summary": "While some experts were scathing, others said the meeting was a historic first step in a process where technical details would come later.",
+		"label": "'EPOCHAL EVENT'?",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882256",
+				"news.headline": "Trump's agreement with Kim contains no new promises",
+				"news.contentcategory": "politics",
+				"news.subcat1": "white-house",
+				"news.subcat2": "not available",
+				"news.subcat3": "global-power",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T10:56:15Z",
+				"news.modpagepublishdate": "2018-06-12T17:20:44Z",
+				"news.author": "Alexander Smith",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882131",
+		"type": "article",
+		"url": "https://www.nbcnews.com/politics/congress/mcconnell-s-legacy-built-winning-fights-not-friends-n882131",
+		"headline": "Mock: McConnell's legacy built on winning fights, not friends",
+		"published": "2018-06-12T10:30:00Z",
+		"tease": "https://media3.s-nbcnews.com/i/newscms/2018_24/2461421/180611-mitch-mcconnell-mn-1615_27622fa9b6e4b955188cab149e295da6.JPG",
+		"summary": "The Kentucky senator becomes the longest-serving GOP leader at the expense of public approval.",
+		"label": "GOP MILESTONE",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882131",
+				"news.headline": "McConnell's legacy built on winning fights, not friends",
+				"news.contentcategory": "politics",
+				"news.subcat1": "congress",
+				"news.subcat2": "not available",
+				"news.subcat3": "not available",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T10:30:01Z",
+				"news.modpagepublishdate": "2018-06-12T10:30:00Z",
+				"news.author": "Heidi Przybyla, Leigh Ann Caldwell",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882216",
+		"type": "article",
+		"url": "https://www.nbcnews.com/news/world/decimation-reefs-would-send-flood-storm-damage-costs-soaring-study-n882216",
+		"headline": "Mock: In world without ocean reefs, flood and storm damage would soar",
+		"published": "2018-06-12T15:08:00Z",
+		"tease": "https://media1.s-nbcnews.com/i/newscms/2018_16/2405901/180420-coral-great-barrier-reef-mn-1340_fa9155024dde8055738325d556a34cf3.jpg",
+		"summary": "Without reefs, the U.S. could expect a 91 percent spike in flood damages — an increase of $272 billion — from 100-year storm events.",
+		"label": "REEF REPORT",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882216",
+				"news.headline": "In world without ocean reefs, flood and storm damage would soar",
+				"news.contentcategory": "news",
+				"news.subcat1": "world",
+				"news.subcat2": "not available",
+				"news.subcat3": "not available",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T15:08:18Z",
+				"news.modpagepublishdate": "2018-06-12T15:08:00Z",
+				"news.author": "Tim Stelloh",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882181",
+		"type": "article",
+		"url": "https://www.nbcnews.com/news/us-news/school-silenced-its-valedictorian-when-she-brought-sexual-assault-legal-n882181",
+		"headline": "Mock: A school silenced its valedictorian when she brought up sexual assault. Is that legal?",
+		"published": "2018-06-12T00:27:00Z",
+		"tease": "https://media4.s-nbcnews.com/i/newscms/2018_24/2460956/180611-lulabel-seitz-mn-0900_bb6b933aea451587e0830c3ecb517d0b.jpg",
+		"summary": "Legal scholars disagree over whether her First Amendment rights were violated.",
+		"label": "MIC CUT",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882181",
+				"news.headline": "A school silenced its valedictorian when she brought up sexual assault. Is that legal?",
+				"news.contentcategory": "news",
+				"news.subcat1": "us-news",
+				"news.subcat2": "not available",
+				"news.subcat3": "latest-stories",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T00:27:51Z",
+				"news.modpagepublishdate": "2018-06-12T00:27:00Z",
+				"news.author": "Tim Stelloh",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882346",
+		"type": "article",
+		"url": "https://www.nbcnews.com/business/autos/despite-spate-crashes-using-autopilot-musk-promises-fully-autonomous-cars-n882346",
+		"headline": "Mock: Musk teases fully autonomous cars by August, despite Autopilot crashes",
+		"published": "2018-06-12T15:53:00Z",
+		"tease": "https://media1.s-nbcnews.com/i/newscms/2018_24/2419576/180503-tesla-dealership-njs-812_76a79b8f48c536cd94897b5eaef32bc9.jpg",
+		"summary": "The announcement is likely to generate concern among critics who point to a series of recent accidents, including one fatal, linked to Autopilot.",
+		"label": "TESLAS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882346",
+				"news.headline": "Musk teases fully autonomous cars by August, despite Autopilot crashes",
+				"news.contentcategory": "business",
+				"news.subcat1": "autos",
+				"news.subcat2": "not available",
+				"news.subcat3": "latest-stories",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T15:53:10Z",
+				"news.modpagepublishdate": "2018-06-12T15:53:00Z",
+				"news.author": "Paul A. Eisenstein",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882316",
+		"type": "article",
+		"url": "https://www.nbcnews.com/storyline/sexual-misconduct/southern-baptist-convention-kicks-annual-meeting-metoo-cases-protests-loom-n882316",
+		"headline": "Mock: Southern Baptists kick off annual meeting as #MeToo cases, protests loom",
+		"published": "2018-06-12T14:44:00Z",
+		"tease": "https://media3.s-nbcnews.com/i/newscms/2018_24/2462626/180612-baptist-southern-baptist-convention-se-1250p_58f3e9223aaba42b9c9544f8acffa55a.jpg",
+		"summary": "Rocked by multiple sexual misconduct allegations, the Southern Baptist Convention is gathering in Dallas for its first meeting of the #MeToo era.",
+		"label": "'A GOD-FEARING STATE'",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882316",
+				"news.headline": "Southern Baptists kick off annual meeting as #MeToo cases, protests loom",
+				"news.contentcategory": "news",
+				"news.subcat1": "religion",
+				"news.subcat2": "not available",
+				"news.subcat3": "metoo-reckoning",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T14:44:42Z",
+				"news.modpagepublishdate": "2018-06-12T14:44:00Z",
+				"news.author": "Elizabeth Chuck, Associated Press",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna881146",
+		"type": "article",
+		"url": "https://www.nbcnews.com/think/opinion/sinclair-broadcasting-not-fox-news-becoming-truest-heir-roger-ailes-ncna881146",
+		"headline": "Mock: Sinclair Broadcasting's quiet rise is far more concerning than Fox News",
+		"published": "2018-06-12T09:01:00Z",
+		"tease": "https://media3.s-nbcnews.com/i/newscms/2017_20/2004161/170518-roger-ailes-fox-portrait-njs-907a_1eeecf372a53eb25aec6cc49c3844d76.jpg",
+		"summary": "For those worried about the rise of propaganda in America, this is a troubling development.",
+		"label": "OPINION",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna881146",
+				"news.headline": "Sinclair Broadcasting's quiet rise is far more concerning than Fox News",
+				"news.contentcategory": "opinion",
+				"news.subcat1": "opinion",
+				"news.subcat2": "not available",
+				"news.subcat3": "the-thread",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T09:01:24Z",
+				"news.modpagepublishdate": "2018-06-12T09:01:00Z",
+				"news.author": "Nicole Hemmer",
+				"news.verticalname": "think",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna881986",
+		"type": "article",
+		"url": "https://www.nbcnews.com/news/us-news/they-want-help-crisis-hotlines-inundated-calls-after-celebrity-suicides-n881986",
+		"headline": "Mock: Crisis hotlines inundated with calls after celebrity suicides",
+		"published": "2018-06-11T22:57:00Z",
+		"tease": "https://media4.s-nbcnews.com/i/newscms/2018_24/2461736/180611-anthony-bourdain-suicide-memorial-se-317p-v2_333c9f42cb16478a67d423de94ad70d0.jpg",
+		"summary": "After the suicides of Kate Spade and Anthony Bourdain, crisis hotlines reported increases in calls and texts.",
+		"label": "SUICIDE PREVENTION",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna881986",
+				"news.headline": "Crisis hotlines inundated with calls after celebrity suicides",
+				"news.contentcategory": "news",
+				"news.subcat1": "us-news",
+				"news.subcat2": "not available",
+				"news.subcat3": "latest-stories",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-11T22:29:01Z",
+				"news.modpagepublishdate": "2018-06-11T22:57:00Z",
+				"news.author": "Elizabeth Chuck",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882396",
+		"type": "article",
+		"url": "https://www.nbcnews.com/health/health-news/sexual-harassment-universities-must-stop-report-says-n882396",
+		"headline": "Mock: Sexual harassment at universities must stop, report says",
+		"published": "2018-06-12T17:03:00Z",
+		"tease": "https://media4.s-nbcnews.com/i/newscms/2018_24/2462631/180612-michigan-state-university-mn-1315_b7ff48d43669602ba05953371c126d95.jpg",
+		"summary": "The second-worst place to be a woman? Academia",
+		"label": "#METOO RECKONING",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882396",
+				"news.headline": "Sexual harassment at universities must stop, report says",
+				"news.contentcategory": "health",
+				"news.subcat1": "health-news",
+				"news.subcat2": "not available",
+				"news.subcat3": "metoo-reckoning",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T16:04:13Z",
+				"news.modpagepublishdate": "2018-06-12T17:03:00Z",
+				"news.author": "Maggie Fox",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882041",
+		"type": "article",
+		"url": "https://www.nbcnews.com/better/business/hidden-or-unexpected-travel-fees-can-break-your-vacation-budget-ncna882041",
+		"headline": "Mock: Here are the hidden travel fees that could break your vacation budget",
+		"published": "2018-06-12T12:08:00Z",
+		"tease": "https://media2.s-nbcnews.com/i/newscms/2018_24/2461611/180611-hotel-lobby-reception-2016-ac-541p_f267168124ab5bf015fb79f05011e654.jpg",
+		"summary": "Here are four costly fees to watch out for.",
+		"label": "PERSONAL FINANCE",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882041",
+				"news.headline": "Here are the hidden travel fees that could break your vacation budget",
+				"news.contentcategory": "business",
+				"news.subcat1": "personal-finance",
+				"news.subcat2": "not available",
+				"news.subcat3": "latest-stories",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T12:08:35Z",
+				"news.modpagepublishdate": "2018-06-12T12:08:00Z",
+				"news.author": "Herb Weisbaum",
+				"news.verticalname": "better",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882386",
+		"type": "article",
+		"url": "https://www.nbcnews.com/mach/science/can-flying-drones-save-whales-trapped-fishing-gear-ncna882386",
+		"headline": "Mock: Can flying drones save whales trapped in fishing gear?",
+		"published": "2018-06-12T17:43:00Z",
+		"tease": "https://media2.s-nbcnews.com/i/newscms/2018_24/2458301/180607-mach-drone-ocean-whales-se-640p_f9759769a1c6fac256ef90313cd45c11.jpg",
+		"summary": "It's not a small problem, experts say.",
+		"label": "SCIENCE NEWS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882386",
+				"news.headline": "Can flying drones save whales trapped in fishing gear?",
+				"news.contentcategory": "science",
+				"news.subcat1": "science-news",
+				"news.subcat2": "not available",
+				"news.subcat3": "latest-stories",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T17:39:03Z",
+				"news.modpagepublishdate": "2018-06-12T17:43:00Z",
+				"news.author": "Ella Koscher",
+				"news.verticalname": "mach",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882441",
+		"type": "article",
+		"url": "https://mlb.nbcsports.com/2018/06/12/national-league-exec-on-bryce-harper-hes-simply-overrated-hes-a-losing-player/?cid=eref:nbcnews:text",
+		"headline": "Mock: MLB executive believes star player is an 'overrated' loser",
+		"published": "2018-06-12T17:35:00Z",
+		"tease": "https://media4.s-nbcnews.com/i/newscms/2018_24/2462651/harper_45db23749c4e1124da2e3ddaded0193d.jpg",
+		"summary": "“He’s simply overrated. The good ain’t worth the bad.\"",
+		"label": "SPORTS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882441",
+				"news.headline": "MLB executive believes star player is an 'overrated' loser",
+				"news.contentcategory": "news",
+				"news.subcat1": "sports",
+				"news.subcat2": "not available",
+				"news.subcat3": "not available",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T17:35:54Z",
+				"news.modpagepublishdate": "2018-06-12T17:35:00Z",
+				"news.author": "not available",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882436",
+		"type": "article",
+		"url": "https://youtu.be/gQaThBE0Mtk",
+		"headline": "Mock: Icebergs lure tourists to tiny Newfoundland town ",
+		"published": "2018-06-12T17:25:00Z",
+		"tease": "https://media2.s-nbcnews.com/i/newscms/2018_24/2462636/best_iceberg_363976fec5a6328be0cb3d153c9161a7.jpg",
+		"summary": "Fishermen in Newfoundland are turning their sights to a new bumper crop of icebergs that are drifting south from Greenland and luring boatloads of tourists.\r\n",
+		"label": "LEFTFIELD",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882436",
+				"news.headline": "Icebergs lure tourists to tiny Newfoundland town ",
+				"news.contentcategory": "leftfield",
+				"news.subcat1": "not available",
+				"news.subcat2": "not available",
+				"news.subcat3": "not available",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T17:25:44Z",
+				"news.modpagepublishdate": "2018-06-12T17:25:00Z",
+				"news.author": "not available",
+				"news.verticalname": "leftfield",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882431",
+		"type": "article",
+		"url": "https://nba.nbcsports.com/2018/06/12/report-lebron-james-says-he-doesnt-like-houston-as-city/?cid=eref:nbcnews:text",
+		"headline": "Mock: LeBron reportedly isn't a fan of this city",
+		"published": "2018-06-12T17:21:00Z",
+		"tease": null,
+		"summary": "Dwyane Wade said LeBron James‘ upcoming free-agency decision would be primarily about “lifestyle.”",
+		"label": "SPORTS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882431",
+				"news.headline": "LeBron reportedly isn't a fan of this city",
+				"news.contentcategory": "news",
+				"news.subcat1": "sports",
+				"news.subcat2": "not available",
+				"news.subcat3": "not available",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T17:21:01Z",
+				"news.modpagepublishdate": "2018-06-12T17:21:00Z",
+				"news.author": "not available",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882416",
+		"type": "article",
+		"url": "https://www.nbcnews.com/politics/congress/trump-kim-summit-draws-mixed-reaction-capitol-hill-n882416",
+		"headline": "Mock: Trump-Kim summit draws mixed reaction on Capitol Hill",
+		"published": "2018-06-12T17:52:33Z",
+		"tease": "https://media1.s-nbcnews.com/i/newscms/2018_24/2441581/180522-the-capitol-building-exterior-2008-ac-735p_7a94bd82e3b3b533e6fb24c68cd97283.jpg",
+		"summary": "The chairman of the Senate Foreign Relations Committee said he wants Secretary of State Mike Pompeo to testify before the panel on where the process is headed next.",
+		"label": "CONGRESS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882416",
+				"news.headline": "Trump-Kim summit draws mixed reaction on Capitol Hill",
+				"news.contentcategory": "politics",
+				"news.subcat1": "congress",
+				"news.subcat2": "not available",
+				"news.subcat3": "trump-effect",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T17:08:27Z",
+				"news.modpagepublishdate": "2018-06-12T17:52:33Z",
+				"news.author": "Rebecca Shabad, Kasie Hunt, Garrett Haake",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882376",
+		"type": "article",
+		"url": "https://www.nbcnews.com/news/asian-america/place-us-novelist-fatima-farheen-mirza-shows-muslim-characters-through-n882376",
+		"headline": "Mock: In 'A Place for Us,' novelist Fatima Farheen Mirza shows Muslim characters through a wider lens",
+		"published": "2018-06-12T17:02:05Z",
+		"tease": "https://media3.s-nbcnews.com/i/newscms/2018_24/2462511/180612-fatima-farheen-mirza-author-njs-1028_8cd061d5f3be021b7570687364d7ba77.jpg",
+		"summary": "\"A Place for Us,\" the debut novel from Fatima Farheen Mirza, is the first to be published by Sarah Jessica Parker's imprint, SJP for Hogarth.",
+		"label": "ASIAN AMERICA",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882376",
+				"news.headline": "In 'A Place for Us,' novelist Fatima Farheen Mirza shows Muslim characters through a wider lens",
+				"news.contentcategory": "news",
+				"news.subcat1": "asian-america",
+				"news.subcat2": "not available",
+				"news.subcat3": "latest-stories",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T17:02:05Z",
+				"news.modpagepublishdate": "2018-06-12T17:02:05Z",
+				"news.author": "Saleah Blancaflor",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882371",
+		"type": "article",
+		"url": "https://www.nbcnews.com/feature/nbc-out/vatican-backed-family-rally-expected-have-speech-lesbian-gay-faithful-n882371",
+		"headline": "Mock: Vatican-backed family rally expected to have speech on lesbian and gay faithful",
+		"published": "2018-06-12T16:23:00Z",
+		"tease": "https://media1.s-nbcnews.com/i/newscms/2018_24/2462571/180612-vatican-noon-prayer-se-1106a_4b1fe2b765faa2fe2a8993b06ea170d2.jpg",
+		"summary": "James Martin, an American Jesuit, is scheduled to deliver a presentation on welcoming LGBT Catholics and their families into parishes.",
+		"label": "OUT NEWS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882371",
+				"news.headline": "Vatican-backed family rally expected to have speech on lesbian and gay faithful",
+				"news.contentcategory": "nbc-out",
+				"news.subcat1": "out-news",
+				"news.subcat2": "not available",
+				"news.subcat3": "not available",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T16:23:59Z",
+				"news.modpagepublishdate": "2018-06-12T16:23:00Z",
+				"news.author": "Associated Press",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882251",
+		"type": "article",
+		"url": "https://www.nbcnews.com/news/latino/democrats-new-ads-slam-republicans-healthcare-will-get-latino-voters-n882251",
+		"headline": "Mock: Can Democrats' health care messaging help boost Latino voters?",
+		"published": "2018-06-12T15:39:00Z",
+		"tease": "https://media1.s-nbcnews.com/i/newscms/2017_26/2052676/170626-healthcare-bill-417p-rs_0c96dba0cf093aea609d39e34327ddc0.JPG",
+		"summary": "Latino adults made the highest gains in health care coverage under Obama. As Republicans chip away at Obamacare, Democrats hope it gets Latinos to the polls.",
+		"label": "LATINO",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882251",
+				"news.headline": "Can Democrats' health care messaging help boost Latino voters?",
+				"news.contentcategory": "news",
+				"news.subcat1": "latino",
+				"news.subcat2": "not available",
+				"news.subcat3": "not available",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T15:39:49Z",
+				"news.modpagepublishdate": "2018-06-12T15:39:00Z",
+				"news.author": "Stephen A. Nuño",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882311",
+		"type": "article",
+		"url": "https://www.nbcnews.com/news/us-news/former-president-george-h-w-bush-celebrates-94th-birthday-n882311",
+		"headline": "Mock: Former President George H.W. Bush celebrates 94th birthday",
+		"published": "2018-06-12T14:46:00Z",
+		"tease": "https://media3.s-nbcnews.com/i/newscms/2018_24/2411201/180425-george-hw-bush-al-1538_64cfc6e9acaee7b570fc6f57ba3bd0c5.jpg",
+		"summary": "Former President George H.W. Bush is celebrating his 94th birthday in Maine. Bush is relaxing at his home in Kennebunkport on Tuesday, eight days after being released from a hospital where he was treated for low blood pressure. Bush is spending the summer in Kennebunkport without his wife of 73 years, who died in April.",
+		"label": "U.S. NEWS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882311",
+				"news.headline": "Former President George H.W. Bush celebrates 94th birthday",
+				"news.contentcategory": "news",
+				"news.subcat1": "us-news",
+				"news.subcat2": "not available",
+				"news.subcat3": "not available",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T14:46:34Z",
+				"news.modpagepublishdate": "2018-06-12T14:46:00Z",
+				"news.author": "Associated Press",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882351",
+		"type": "article",
+		"url": "https://olympics.nbcsports.com/2018/06/11/bode-miller-daughter-emmy-dies/?cid=eref:nbcnews:text",
+		"headline": "Mock: Bode Miller's 19-month-old daughter drowns in pool",
+		"published": "2018-06-12T14:20:00Z",
+		"tease": null,
+		"summary": "The 19-month-old daughter of U.S. Olympic skier Bode Miller drowned in a Southern California swimming pool.",
+		"label": "SPORTS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882351",
+				"news.headline": "Bode Miller's 19-month-old daughter drowns in pool",
+				"news.contentcategory": "news",
+				"news.subcat1": "sports",
+				"news.subcat2": "not available",
+				"news.subcat3": "not available",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T14:20:26Z",
+				"news.modpagepublishdate": "2018-06-12T14:20:00Z",
+				"news.author": "not available",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882321",
+		"type": "article",
+		"url": "https://www.nbcnews.com/politics/politics-news/new-financial-disclosure-shows-growing-jared-kushner-wealth-debt-n882321",
+		"headline": "Mock: Ivanka Trump, Jared Kushner made more than $80 million last year",
+		"published": "2018-06-12T14:06:00Z",
+		"tease": "https://media1.s-nbcnews.com/i/newscms/2018_24/2462471/180612-jared-kushner-ivanka-trump-njs-959_f84c30ff64605b9ca9679d04e9d3d038.jpg",
+		"summary": "The White House released the disclosures for Kushner and Ivanka Trump on a heavy news day, while the media lavished attention on the North Korea summit.",
+		"label": "POLITICS NEWS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882321",
+				"news.headline": "Ivanka Trump, Jared Kushner made more than $80 million last year",
+				"news.contentcategory": "politics",
+				"news.subcat1": "politics-news",
+				"news.subcat2": "not available",
+				"news.subcat3": "not available",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T14:06:16Z",
+				"news.modpagepublishdate": "2018-06-12T14:06:00Z",
+				"news.author": "Associated Press",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882331",
+		"type": "article",
+		"url": "https://soccer.nbcsports.com/2018/06/12/trump-gets-involved-in-2026-world-cup-bid/?cid=eref:nbcnews:text",
+		"headline": "Mock: Trump gets involved in North America's 2026 World Cup bid",
+		"published": "2018-06-12T13:53:02Z",
+		"tease": null,
+		"summary": "The vote on who will host the 2026 World Cup will take place in Russia on Wednesday. ",
+		"label": "SPORTS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882331",
+				"news.headline": "Trump gets involved in North America's 2026 World Cup bid",
+				"news.contentcategory": "news",
+				"news.subcat1": "sports",
+				"news.subcat2": "not available",
+				"news.subcat3": "not available",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T13:53:02Z",
+				"news.modpagepublishdate": "2018-06-12T13:53:02Z",
+				"news.author": "not available",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882281",
+		"type": "article",
+		"url": "https://www.nbcnews.com/news/world/iran-warns-kim-jong-un-not-trust-trump-after-nuclear-n882281",
+		"headline": "Mock: Iran warns Kim not to trust Trump, but S. Korea hails 'new chapter of peace'",
+		"published": "2018-06-12T12:55:33Z",
+		"tease": "https://media3.s-nbcnews.com/i/newscms/2018_24/2462326/180612-summit-reax-mc-1236_7252a198beedad8af43fbb33acd6ce7b.JPG",
+		"summary": "South Korean President Moon Jae-in was more upbeat, stating: \"We will write a new chapter of peace and cooperation.\"",
+		"label": "WORLD",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882281",
+				"news.headline": "Iran warns Kim not to trust Trump, but S. Korea hails 'new chapter of peace'",
+				"news.contentcategory": "news",
+				"news.subcat1": "world",
+				"news.subcat2": "not available",
+				"news.subcat3": "global-power",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T12:55:06Z",
+				"news.modpagepublishdate": "2018-06-12T12:55:33Z",
+				"news.author": "Reuters",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882306",
+		"type": "article",
+		"url": "https://www.nbcnews.com/politics/first-read/trump-kim-summit-was-big-style-short-substance-n882306",
+		"headline": "Mock: The Trump-Kim summit was big on style, short on substance",
+		"published": "2018-06-12T12:54:22Z",
+		"tease": "https://media1.s-nbcnews.com/i/newscms/2018_24/2461806/180611-north-korea-usa-flags-singapore-njs-2059_f39550d36775826020bdbc61a5f62b6d.jpg",
+		"summary": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
+		"label": "FIRST READ",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882306",
+				"news.headline": "The Trump-Kim summit was big on style, short on substance",
+				"news.contentcategory": "politics",
+				"news.subcat1": "first-read",
+				"news.subcat2": "not available",
+				"news.subcat3": "not available",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T12:54:22Z",
+				"news.modpagepublishdate": "2018-06-12T12:54:22Z",
+				"news.author": "Chuck Todd, Mark Murray , Carrie Dann",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882301",
+		"type": "article",
+		"url": "http://profootballtalk.nbcsports.com/2018/06/12/tight-end-clay-harbor-injured-his-wrist-playing-football-for-the-bachelorette/?cid=eref:nbcnews:text",
+		"headline": "Mock: Free agent tight end hurt his wrist playing football on 'The Bachelorette'",
+		"published": "2018-06-12T12:50:41Z",
+		"tease": null,
+		"summary": "Free agent tight end Clay Harbor injured his wrist playing football while trying to woo The Bachelorette. ",
+		"label": "SPORTS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882301",
+				"news.headline": "Free agent tight end hurt his wrist playing football on 'The Bachelorette'",
+				"news.contentcategory": "news",
+				"news.subcat1": "sports",
+				"news.subcat2": "not available",
+				"news.subcat3": "not available",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T12:50:42Z",
+				"news.modpagepublishdate": "2018-06-12T12:50:41Z",
+				"news.author": "not available",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882296",
+		"type": "article",
+		"url": "https://www.nbcnews.com/politics/first-read/first-read-s-morning-clips-watching-today-s-primaries-n882296",
+		"headline": "Mock: First Read's Morning Clips: Watching today's primaries",
+		"published": "2018-06-12T12:43:47Z",
+		"tease": "https://media3.s-nbcnews.com/i/newscms/2018_05/2310216/180130-mark-sanford-ew-1130a_14c59997acd1bee8ba8061c9c492a1e7.jpg",
+		"summary": "A roundup of the most important political news stories of the day",
+		"label": "FIRST READ",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882296",
+				"news.headline": "First Read's Morning Clips: Watching today's primaries",
+				"news.contentcategory": "politics",
+				"news.subcat1": "first-read",
+				"news.subcat2": "not available",
+				"news.subcat3": "not available",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T12:43:48Z",
+				"news.modpagepublishdate": "2018-06-12T12:43:47Z",
+				"news.author": "not available",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "tdna130767",
+		"type": "article",
+		"url": "https://www.today.com/parents/olympian-bode-miller-beyond-devastated-after-toddler-drowns-neighbor-s-t130767",
+		"headline": "Mock: Olympian Bode Miller's daughter dies in drowning accident: 'We are beyond devastated'",
+		"published": "2018-06-12T12:07:00Z",
+		"tease": "https://media1.s-nbcnews.com/i/newscms/2018_24/1345417/bode-miller-today-tease1-180612_335b45acd2277a5ceef9ea1b453deaea.jpg",
+		"summary": "The 19-month-old girl drowned in a pool at a neighbor's house during a party.",
+		"label": "PARENTS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "tdna130767",
+				"news.headline": "Olympian Bode Miller's daughter dies in drowning accident: 'We are beyond devastated'",
+				"news.contentcategory": "parents",
+				"news.subcat1": "parents",
+				"news.subcat2": "on-the-show",
+				"news.subcat3": "not available",
+				"news.contentsource": "today",
+				"news.origpagepublishdate": "2018-06-12T12:07:00Z",
+				"news.modpagepublishdate": "2018-06-12T12:07:00Z",
+				"news.author": "Eun Kyung Kim",
+				"news.verticalname": "today",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882271",
+		"type": "article",
+		"url": "https://www.nbcnews.com/news/world/man-center-nobel-prize-scandal-jean-claude-arnault-charged-rape-n882271",
+		"headline": "Mock: Man at center of Nobel prize scandal charged with rape",
+		"published": "2018-06-12T11:08:00Z",
+		"tease": "https://media1.s-nbcnews.com/i/newscms/2018_24/2462286/180612-nobel-prize-mc-12002_39fa5d252fe1a1ab6d4974af93d4848c.JPG",
+		"summary": "Arnault has also been suspected of violating century-old Nobel rules by leaking names of winners of the prestigious award.",
+		"label": "WORLD",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882271",
+				"news.headline": "Man at center of Nobel prize scandal charged with rape",
+				"news.contentcategory": "news",
+				"news.subcat1": "world",
+				"news.subcat2": "not available",
+				"news.subcat3": "metoo-reckoning",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T11:03:22Z",
+				"news.modpagepublishdate": "2018-06-12T11:08:00Z",
+				"news.author": "Associated Press",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna881201",
+		"type": "article",
+		"url": "https://nhl.nbcsports.com/2018/06/07/capitals-end-dc-championship-drought-with-first-stanley-cup-win/?sf191338938=1",
+		"headline": "Mock: Capitals win first Stanley Cup, beating Golden Knights",
+		"published": "2018-06-08T03:46:57Z",
+		"tease": "https://media3.s-nbcnews.com/i/newscms/2018_23/2458536/180607-washington-capitals-win-ac-1117p_c8cde10d73617ea37527e56469eb4f4e.jpg",
+		"summary": "The Washington Capitals finally won their first-ever Stanley Cup after conjuring more magic than the Vegas Golden Knights.",
+		"label": "SPORTS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna881201",
+				"news.headline": "Capitals win first Stanley Cup, beating Golden Knights",
+				"news.contentcategory": "news",
+				"news.subcat1": "sports",
+				"news.subcat2": "not available",
+				"news.subcat3": "not available",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-08T03:46:58Z",
+				"news.modpagepublishdate": "2018-06-08T03:46:57Z",
+				"news.author": "not available",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna881636",
+		"type": "article",
+		"url": "https://nba.nbcsports.com/2018/06/08/golden-state-of-domination-warriors-win-second-straight-title-sweep-cavaliers-in-nba-finals/?cid=eref:nbcnews:text",
+		"headline": "Mock: Warriors sweep Cavaliers to win back-to-back NBA championships",
+		"published": "2018-06-09T03:24:00Z",
+		"tease": "https://media1.s-nbcnews.com/i/newscms/2018_23/2459916/kdmvptrophygroup_004a665d6d46feb4d4bea0c9fc2bf245.jpg",
+		"summary": "The Warriors beat the Cavaliers in Game 4 to complete the sweep in the NBA Finals and clinch their second championship in a row.",
+		"label": "SPORTS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna881636",
+				"news.headline": "Warriors sweep Cavaliers to win back-to-back NBA championships",
+				"news.contentcategory": "news",
+				"news.subcat1": "sports",
+				"news.subcat2": "not available",
+				"news.subcat3": "not available",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-09T03:24:54Z",
+				"news.modpagepublishdate": "2018-06-09T03:24:00Z",
+				"news.author": "not available",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882161",
+		"type": "article",
+		"url": "https://www.nbcnews.com/politics/white-house/trump-hypes-drama-hours-nuclear-summit-kim-n882161",
+		"headline": "Mock: Trump puts Korean war games on hold after summit meeting with Kim",
+		"published": "2018-06-12T14:38:46Z",
+		"tease": "https://media2.s-nbcnews.com/i/newscms/2018_24/2462201/180612-trump-kim-signing-mc-8113_068683338988f2c4087301999cdfcfee.JPG",
+		"summary": "The president said he \"developed a very special bond\" with the dictator, who Trump called \"a very talented man.\" Kim was also invited to the White House.",
+		"label": "WHITE HOUSE",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882161",
+				"news.headline": "Trump puts Korean war games on hold after summit meeting with Kim",
+				"news.contentcategory": "politics",
+				"news.subcat1": "white-house",
+				"news.subcat2": "not available",
+				"news.subcat3": "trump-effect",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-11T22:48:17Z",
+				"news.modpagepublishdate": "2018-06-12T14:38:46Z",
+				"news.author": "Jonathan Allen, Jason Cumming, Richie Duchon, Rachel Elbaum ",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882246",
+		"type": "article",
+		"url": "https://www.nbcnews.com/politics/white-house/full-text-u-s-north-korea-agreement-signed-trump-kim-n882246",
+		"headline": "Mock: Read the full agreement signed by Trump, Kim",
+		"published": "2018-06-12T07:13:00Z",
+		"tease": "https://media4.s-nbcnews.com/i/newscms/2018_24/2462191/180612-trump-kim-summit-mc-8002_1ba1385676c3737894de59c3836828a5.JPG",
+		"summary": "The document signed by the leaders pledges \"the building of a lasting and robust peace regime on the Korean Peninsula.\"",
+		"label": "WHITE HOUSE",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882246",
+				"news.headline": "Read the full agreement signed by Trump, Kim",
+				"news.contentcategory": "politics",
+				"news.subcat1": "white-house",
+				"news.subcat2": "not available",
+				"news.subcat3": "latest-stories",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T07:06:58Z",
+				"news.modpagepublishdate": "2018-06-12T07:13:00Z",
+				"news.author": "NBC News",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882266",
+		"type": "article",
+		"url": "https://www.nbcnews.com/politics/white-house/trump-praises-kim-jong-un-takes-aim-again-justin-trudeau-n882266",
+		"headline": "Mock: Dictator Kim gets White House invite as Trump directs anger at Trudeau",
+		"published": "2018-06-12T17:23:34Z",
+		"tease": "https://media4.s-nbcnews.com/i/newscms/2018_24/2462376/180612-trump-trudeau-mc-1320_b9025fb6398db8ea67e3f7f50e7def15.JPG",
+		"summary": "The president's effusive praise and warm smiles were a notable contrast to the weekend's acrimonious G-7 summit.",
+		"label": "WHITE HOUSE",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882266",
+				"news.headline": "Dictator Kim gets White House invite as Trump directs anger at Trudeau",
+				"news.contentcategory": "politics",
+				"news.subcat1": "white-house",
+				"news.subcat2": "not available",
+				"news.subcat3": "global-power",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T11:47:45Z",
+				"news.modpagepublishdate": "2018-06-12T17:23:34Z",
+				"news.author": "Alastair Jamieson, Reuters",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882276",
+		"type": "article",
+		"url": "https://www.nbcnews.com/politics/white-house/trump-credits-otto-warmbier-north-korea-summit-otto-did-not-n882276",
+		"headline": "Mock: Trump credits Warmbier for summit: 'Otto did not die in vain'",
+		"published": "2018-06-12T17:43:00Z",
+		"tease": "https://media1.s-nbcnews.com/i/newscms/2018_24/2462266/100612-otto-warmbier-mc-1133_124bc1013d3644f7d77f473c5516837a.JPG",
+		"summary": "The summit, where Trump and Kim signed a joint statement agreeing to pursue the denuclearization of the Korean Peninsula, was held on the one-year anniversary of Warmbier's release.",
+		"label": "WHITE HOUSE",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882276",
+				"news.headline": "Trump credits Warmbier for summit: 'Otto did not die in vain'",
+				"news.contentcategory": "politics",
+				"news.subcat1": "white-house",
+				"news.subcat2": "not available",
+				"news.subcat3": "trump-effect",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T11:56:18Z",
+				"news.modpagepublishdate": "2018-06-12T17:43:00Z",
+				"news.author": "Dartunorro Clark",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "mmvo1253450307996",
+		"type": "video",
+		"url": "https://www.nbcnews.com/video/trump-and-kim-jong-un-shake-hands-at-summit-1253450307996",
+		"headline": "Mock: Trump and Kim Jong Un shake hands at summit",
+		"published": "2018-06-12T01:10:54Z",
+		"tease": "https://media2.s-nbcnews.com/i/MSNBC/Components/Video/201806/nbc_kimtrump_handshake_180611_1920x1080.jpg",
+		"summary": "President Trump and North Korean dictator Kim Jong Un shook hands at the beginning of an historic summit in Singapore.",
+		"label": "NORTH KOREA",
+		"mpxID": "1253450307996",
+		"duration": "00:01:40",
+		"preview": "http://public.vilynx.com/4931c00ef3f13ea834c8d422a12e1f25/pro69.viwindow.mp4",
+		"videoUrl": "http://link.theplatform.com/s/2E2eJC/W9AMTKrIWfiT?mbr=true\u0026manifest=m3u\u0026metafile=none",
+		"associatedPlaylist": "videoplaylist/mmlsnnd_northkorea",
+		"freeWheel": {
+			"fileName": "nbc_kimtrump_handshake_180611",
+			"target": {
+				"sect": "news",
+				"topic": "north-korea"
+			}
+		},
+		"tracking": {
+			"adobe": {
+				"a.media.length": "100",
+				"videocontenttype": "Video",
+				"videocontentsource": "nbcnews",
+				"videopublishdate": "2018-06-12T01:10:54Z",
+				"videotitle": "Trump and Kim Jong Un shake hands at summit",
+				"videoprogram": "NBC News",
+				"videompxid": "1253450307996",
+				"videocliptype": "broadcast",
+				"videonetwork": "NBC News",
+				"videoguid": "nbc_kimtrump_handshake_180611",
+				"videocontentrating": "neutral",
+				"videoplaylist": "North Korea",
+				"videoplaylistid": "nnd_northkorea"
+			},
+			"nielsen": {
+				"type": "content",
+				"assetid": "nbc_kimtrump_handshake_180611",
+				"crossId2": "nbc_kimtrump_handshake_180611",
+				"program": "NBC News",
+				"title": "Trump and Kim Jong Un shake hands at summit",
+				"length": "100",
+				"airdate": "2018-06-12T01:10:54Z",
+				"isfullepisode": "n"
+			},
+			"comscore": {
+				"ns_st_ci": "nbc_kimtrump_handshake_180611",
+				"ns_st_cl": "100000",
+				"ns_st_pu": "nbcnews",
+				"ns_st_pr": "NBC News",
+				"ns_st_ep": "Trump and Kim Jong Un shake hands at summit",
+				"ns_st_sn": "*null",
+				"ns_st_en": "*null",
+				"ns_st_ge": "News",
+				"ns_st_ti": "*null",
+				"ns_st_ia": "0",
+				"ns_st_ce": "0",
+				"ns_st_ddt": "2018-06-12T01:20:33Z",
+				"ns_st_tdt": "2018-06-12T01:10:54Z"
+			}
+		}
+	}, {
+		"id": "mmvo1253592131969",
+		"type": "video",
+		"url": "https://www.nbcnews.com/video/trump-and-kim-jong-un-sign-document-at-summit-1253592131969",
+		"headline": "Mock: Trump and Kim Jong Un sign document at summit",
+		"published": "2018-06-12T05:51:00Z",
+		"tease": "https://media3.s-nbcnews.com/i/MSNBC/Components/Video/201806/nbc_kimtrump_signing_180612_1920x1080.jpg",
+		"summary": "President Trump and Kim Jong Un sign a document Trump describes as \"comprehensive\" during their summit in Singapore.",
+		"label": "NEWS",
+		"mpxID": "1253592131969",
+		"duration": "00:05:50",
+		"preview": "http://public.vilynx.com/22b11a2250a47a142c77b63cc930946c/pro69.viwindow.mp4",
+		"videoUrl": "http://link.theplatform.com/s/2E2eJC/yLz3SC9oEBKC?mbr=true\u0026manifest=m3u\u0026metafile=none",
+		"captionLinks": {
+			"srt": "https://nbcnewsdigital-static.nbcuni.com/media/captions/NBC_News/511/635/1528783168121_nbc_kimtrump_signing_180612.srt"
+		},
+		"associatedPlaylist": "videoplaylist/mmlsnnd_northkorea",
+		"freeWheel": {
+			"fileName": "nbc_kimtrump_signing_180612",
+			"target": {
+				"sect": "politics"
+			}
+		},
+		"tracking": {
+			"adobe": {
+				"a.media.length": "350",
+				"videocontenttype": "Video",
+				"videocontentsource": "nbcnews",
+				"videopublishdate": "2018-06-12T05:51:00Z",
+				"videotitle": "Trump and Kim Jong Un sign document at summit",
+				"videoprogram": "NBC News",
+				"videompxid": "1253592131969",
+				"videocliptype": "broadcast",
+				"videonetwork": "NBC News",
+				"videoguid": "nbc_kimtrump_signing_180612",
+				"videocontentrating": "neutral",
+				"videoplaylist": "North Korea",
+				"videoplaylistid": "nnd_northkorea"
+			},
+			"nielsen": {
+				"type": "content",
+				"assetid": "nbc_kimtrump_signing_180612",
+				"crossId2": "nbc_kimtrump_signing_180612",
+				"program": "NBC News",
+				"title": "Trump and Kim Jong Un sign document at summit",
+				"length": "350",
+				"airdate": "2018-06-12T05:51:00Z",
+				"isfullepisode": "n"
+			},
+			"comscore": {
+				"ns_st_ci": "nbc_kimtrump_signing_180612",
+				"ns_st_cl": "350000",
+				"ns_st_pu": "nbcnews",
+				"ns_st_pr": "NBC News",
+				"ns_st_ep": "Trump and Kim Jong Un sign document at summit",
+				"ns_st_sn": "*null",
+				"ns_st_en": "*null",
+				"ns_st_ge": "News",
+				"ns_st_ti": "*null",
+				"ns_st_ia": "0",
+				"ns_st_ce": "0",
+				"ns_st_ddt": "2018-06-12T05:59:25Z",
+				"ns_st_tdt": "2018-06-12T05:51:00Z"
+			}
+		}
+	}, {
+		"id": "mmvo1253738051621",
+		"type": "video",
+		"url": "https://www.nbcnews.com/video/donald-trump-asked-about-kim-jong-un-and-justin-trudeau-at-singapore-summit-news-conference-1253738051621",
+		"headline": "Mock: Trump praises 'talented' Kim, takes another swipe at Trudeau",
+		"published": "2018-06-12T11:39:05Z",
+		"tease": "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201806/06801962.jpg",
+		"summary": "The president was asked about his praise for the North Korean dictator after his criticism of the Canadian prime minister.",
+		"label": "NORTH KOREA",
+		"mpxID": "1253738051621",
+		"duration": "00:01:17",
+		"preview": "http://public.vilynx.com/b2fd05caae524a14dffa3d207fa386a2/pro69.viwindow.mp4",
+		"videoUrl": "http://link.theplatform.com/s/2E2eJC/9_wBY1Y_JV2c?mbr=true\u0026manifest=m3u\u0026metafile=none",
+		"associatedPlaylist": "videoplaylist/mmlsnnd_58534155",
+		"freeWheel": {
+			"fileName": "f_mash_lon_friends_180612",
+			"target": {
+				"sect": "news",
+				"topic": "north-korea"
+			}
+		},
+		"tracking": {
+			"adobe": {
+				"a.media.length": "77",
+				"videocontenttype": "Video",
+				"videocontentsource": "nbcnews",
+				"videopublishdate": "2018-06-12T11:39:05Z",
+				"videotitle": "Trump praises 'talented' Kim, takes another swipe at Trudeau",
+				"videoprogram": "NBC News",
+				"videompxid": "1253738051621",
+				"videocliptype": "broadcast",
+				"videonetwork": "NBC News",
+				"videoguid": "f_mash_lon_friends_180612",
+				"videocontentrating": "neutral",
+				"videoplaylist": "President Trump",
+				"videoplaylistid": "nnd_58534155"
+			},
+			"nielsen": {
+				"type": "content",
+				"assetid": "f_mash_lon_friends_180612",
+				"crossId2": "f_mash_lon_friends_180612",
+				"program": "NBC News",
+				"title": "Donald Trump asked about Kim Jong Un and Justin Trudeau at Singapore summit news conference",
+				"length": "77",
+				"airdate": "2018-06-12T11:39:05Z",
+				"isfullepisode": "n"
+			},
+			"comscore": {
+				"ns_st_ci": "f_mash_lon_friends_180612",
+				"ns_st_cl": "77000",
+				"ns_st_pu": "nbcnews",
+				"ns_st_pr": "NBC News",
+				"ns_st_ep": "Trump praises 'talented' Kim, takes another swipe at Trudeau",
+				"ns_st_sn": "*null",
+				"ns_st_en": "*null",
+				"ns_st_ge": "News",
+				"ns_st_ti": "*null",
+				"ns_st_ia": "0",
+				"ns_st_ce": "0",
+				"ns_st_ddt": "2018-06-12T12:05:48Z",
+				"ns_st_tdt": "2018-06-12T11:39:05Z"
+			}
+		}
+	}, {
+		"id": "mmvo1252916291680",
+		"type": "video",
+		"url": "https://www.nbcnews.com/video/the-disruptors-cross-country-hackathon-creates-a-women-only-space-to-help-challenge-the-status-quo-1252916291680",
+		"headline": "Mock: The Disruptors: On the road with the women and TGNC shaking up tech",
+		"published": "2018-06-11T15:08:35Z",
+		"tease": "https://media3.s-nbcnews.com/i/MSNBC/Components/Video/201806/d_ov_doc_Techbus_180611.jpg",
+		"summary": "StartupBus is a cross-country hackathon for entrepreneurs. This year, to challenge the male dominated status quo of the tech industry, the event featured a bus made up exclusively of women, trans, and gendernonconforming folks. It was an opportunity to empower female creators, and to allow women to meet, network, and share their experiences working in all-male environments.",
+		"label": "NEWS",
+		"mpxID": "1252916291680",
+		"duration": "00:07:08",
+		"preview": "http://public.vilynx.com/02a817034b167133d5931dea679fb24b/pro69.viwindow.mp4",
+		"videoUrl": "http://link.theplatform.com/s/2E2eJC/VBHdF8XDEV9g?mbr=true\u0026manifest=m3u\u0026metafile=none",
+		"associatedPlaylist": "videoplaylist/mmlsnnd_53296436",
+		"freeWheel": {
+			"fileName": "d_ov_doc_Techbus_180611",
+			"target": {
+				"sect": "tech"
+			}
+		},
+		"tracking": {
+			"adobe": {
+				"a.media.length": "428",
+				"videocontenttype": "Video",
+				"videocontentsource": "nbcnews",
+				"videopublishdate": "2018-06-11T15:08:35Z",
+				"videotitle": "The Disruptors: On the road with the women and TGNC shaking up tech",
+				"videoprogram": "NBC News",
+				"videompxid": "1252916291680",
+				"videocliptype": "broadcast",
+				"videonetwork": "NBC News",
+				"videoguid": "d_ov_doc_Techbus_180611",
+				"videocontentrating": "neutral",
+				"videoplaylist": "NBC News Tech",
+				"videoplaylistid": "nnd_53296436"
+			},
+			"nielsen": {
+				"type": "content",
+				"assetid": "d_ov_doc_Techbus_180611",
+				"crossId2": "d_ov_doc_Techbus_180611",
+				"program": "NBC News",
+				"title": "The Disruptors: Cross-country hackathon creates a women and TGNC only space to help challenge the status quo",
+				"length": "428",
+				"airdate": "2018-06-11T15:08:35Z",
+				"isfullepisode": "n"
+			},
+			"comscore": {
+				"ns_st_ci": "d_ov_doc_Techbus_180611",
+				"ns_st_cl": "428000",
+				"ns_st_pu": "nbcnews",
+				"ns_st_pr": "NBC News",
+				"ns_st_ep": "The Disruptors: On the road with the women and TGNC shaking up tech",
+				"ns_st_sn": "*null",
+				"ns_st_en": "*null",
+				"ns_st_ge": "News",
+				"ns_st_ti": "*null",
+				"ns_st_ia": "0",
+				"ns_st_ce": "0",
+				"ns_st_ddt": "2018-06-11T15:39:29Z",
+				"ns_st_tdt": "2018-06-11T15:08:35Z"
+			}
+		}
+	}, {
+		"id": "mmvo1253077059955",
+		"type": "video",
+		"url": "https://www.nbcnews.com/better/video/triple-crown-winners-talk-about-making-history-with-justify-at-the-belmont-stakes-1253077059955",
+		"headline": "Mock: Triple Crown winners talk about making history with Justify",
+		"published": "2018-06-11T17:50:55Z",
+		"tease": "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201806/d_better_2min_triplecrown_180611.jpg",
+		"summary": "The team behind Triple Crown winning horse Justify - owner Elliott Walden, jockey Mike Smith, and trainer Bob Baffert - talk about what it means to accomplish the rare feat.",
+		"label": "TV",
+		"mpxID": "1253077059955",
+		"duration": "00:02:11",
+		"preview": "http://public.vilynx.com/623b54ae78c4a4d6dc70827758210eae/pro69.viwindow.mp4",
+		"videoUrl": "http://link.theplatform.com/s/2E2eJC/UyXURlzXFAlq?mbr=true\u0026manifest=m3u\u0026metafile=none",
+		"associatedPlaylist": "videoplaylist/mmlsnnd_better",
+		"freeWheel": {
+			"fileName": "d_better_2min_triplecrown3_180611",
+			"target": {
+				"sect": "pop-culture",
+				"topic": "tv"
+			}
+		},
+		"tracking": {
+			"adobe": {
+				"a.media.length": "131",
+				"videocontenttype": "Video",
+				"videocontentsource": "nbcnews",
+				"videopublishdate": "2018-06-11T17:50:55Z",
+				"videotitle": "Triple Crown winners talk about making history with Justify",
+				"videoprogram": "better",
+				"videompxid": "1253077059955",
+				"videocliptype": "broadcast",
+				"videonetwork": "NBC News",
+				"videoguid": "d_better_2min_triplecrown3_180611",
+				"videocontentrating": "positive",
+				"videoplaylist": "Better",
+				"videoplaylistid": "nnd_better"
+			},
+			"nielsen": {
+				"type": "content",
+				"assetid": "d_better_2min_triplecrown3_180611",
+				"crossId2": "d_better_2min_triplecrown3_180611",
+				"program": "better",
+				"title": "Triple Crown winners talk about making history with Justify at the Belmont Stakes",
+				"length": "131",
+				"airdate": "2018-06-11T17:50:55Z",
+				"isfullepisode": "n"
+			},
+			"comscore": {
+				"ns_st_ci": "d_better_2min_triplecrown3_180611",
+				"ns_st_cl": "131000",
+				"ns_st_pu": "nbcnews",
+				"ns_st_pr": "better",
+				"ns_st_ep": "Triple Crown winners talk about making history with Justify",
+				"ns_st_sn": "*null",
+				"ns_st_en": "*null",
+				"ns_st_ge": "News",
+				"ns_st_ti": "*null",
+				"ns_st_ia": "0",
+				"ns_st_ce": "0",
+				"ns_st_ddt": "2018-06-11T17:58:05Z",
+				"ns_st_tdt": "2018-06-11T17:50:55Z"
+			}
+		}
+	}, {
+		"id": "ncna881431",
+		"type": "article",
+		"url": "https://www.nbcnews.com/business/business-news/why-one-judge-s-decision-could-change-fate-u-s-n881431",
+		"headline": "Mock: Why one judge's decision could change the fate of U.S. media",
+		"published": "2018-06-09T16:59:00Z",
+		"tease": "https://media4.s-nbcnews.com/i/newscms/2018_23/2459266/180608-time-warner-building-ew-1257p_88aa5c3f155d5decb4d465c59c539601.jpg",
+		"summary": "In the battle between tech and media, the fate of AT\u0026T's $85 billion acquisition of Time Warner will be a turning point.",
+		"label": "BUSINESS NEWS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna881431",
+				"news.headline": "Why one judge's decision could change the fate of U.S. media",
+				"news.contentcategory": "business",
+				"news.subcat1": "business-news",
+				"news.subcat2": "not available",
+				"news.subcat3": "the-thread",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-09T16:59:29Z",
+				"news.modpagepublishdate": "2018-06-09T16:59:00Z",
+				"news.author": "Claire Atkinson",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna871901",
+		"type": "article",
+		"url": "https://www.nbcnews.com/tech/internet/thread-media-blog-tracking-day-s-news-announcements-just-little-n871901",
+		"headline": "Mock: The Query: featuring news and analysis on the media by Claire Atkinson",
+		"published": "2018-05-24T20:02:00Z",
+		"tease": "https://media3.s-nbcnews.com/i/newscms/2018_12/2369596/appchannelbgthread_2d22203c8549765afb412af557dbef42.jpg",
+		"summary": "Tracking the constantly changing world of print, advertising, video, and everything in-between.",
+		"label": "INTERNET",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna871901",
+				"news.headline": "The Query: featuring news and analysis on the media by Claire Atkinson",
+				"news.contentcategory": "tech",
+				"news.subcat1": "internet",
+				"news.subcat2": "not available",
+				"news.subcat3": "the-thread",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-05-14T19:11:50Z",
+				"news.modpagepublishdate": "2018-05-24T20:02:00Z",
+				"news.author": "not available",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna879781",
+		"type": "article",
+		"url": "https://www.nbcnews.com/news/us-news/woody-allen-says-he-big-advocate-metoo-movement-n879781",
+		"headline": "Mock: Woody Allen says he is 'a big advocate' of the #MeToo movement",
+		"published": "2018-06-04T15:42:29Z",
+		"tease": "https://media4.s-nbcnews.com/i/newscms/2018_21/2190691/171016-woody-allen-mn-1000_03b6b5436c08c50035be4cd81c0df371.jpg",
+		"summary": "Some actors have said they will never work with the acclaimed director again.",
+		"label": "U.S. NEWS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna879781",
+				"news.headline": "Woody Allen says he is 'a big advocate' of the #MeToo movement",
+				"news.contentcategory": "news",
+				"news.subcat1": "us-news",
+				"news.subcat2": "not available",
+				"news.subcat3": "the-thread",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-04T15:42:30Z",
+				"news.modpagepublishdate": "2018-06-04T15:42:29Z",
+				"news.author": "Claire Atkinson",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna879741",
+		"type": "article",
+		"url": "https://www.nbcnews.com/business/your-business/discovery-communications-tees-2-billion-deal-pro-golf-n879741",
+		"headline": "Mock: Discovery Communications tees up $2 billion deal for pro golf",
+		"published": "2018-06-04T13:08:52Z",
+		"tease": "https://media4.s-nbcnews.com/i/newscms/2018_23/2453621/180604-jordan-spieth-mc-1345_eb8ef9ff16f811f68875c08ca08ff240.JPG",
+		"summary": "Known in the U.S. for its factual and reality TV, Discovery is emerging as a big player in the European sports media world",
+		"label": "YOUR BUSINESS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna879741",
+				"news.headline": "Discovery Communications tees up $2 billion deal for pro golf",
+				"news.contentcategory": "business",
+				"news.subcat1": "your-business",
+				"news.subcat2": "not available",
+				"news.subcat3": "the-thread",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-04T13:08:53Z",
+				"news.modpagepublishdate": "2018-06-04T13:08:52Z",
+				"news.author": "Claire Atkinson",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna861201",
+		"type": "article",
+		"url": "https://www.nbcnews.com/business/consumer/facebook-s-fall-grace-could-drag-main-street-down-it-n861201",
+		"headline": "Mock: Facebook's fall from grace could drag Main Street down with it",
+		"published": "2018-03-29T18:51:00Z",
+		"tease": "https://media1.s-nbcnews.com/i/newscms/2018_13/2380996/180329-small-business-facebook-al-1352_16a81c415081c6e7d99c17fffd3329b9.jpg",
+		"summary": "Small businesses rely on social media generally and Facebook in particular to reach customers.",
+		"label": "CONSUMER",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna861201",
+				"news.headline": "Facebook's fall from grace could drag Main Street down with it",
+				"news.contentcategory": "business",
+				"news.subcat1": "consumer",
+				"news.subcat2": "not available",
+				"news.subcat3": "not available",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-03-29T18:51:52Z",
+				"news.modpagepublishdate": "2018-03-29T18:51:00Z",
+				"news.author": "Martha C. White",
+				"news.verticalname": "news",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna780231",
+		"type": "article",
+		"url": "https://www.nbcnews.com/better/health/15-protein-packed-breakfasts-will-help-prevent-cravings-ncna780231",
+		"headline": "Mock: Protein-packed breakfasts that can help curb cravings",
+		"published": "2018-06-12T14:41:00Z",
+		"tease": "https://media3.s-nbcnews.com/i/newscms/2017_27/2063401/easy-tofu-breakfast-tacos-111_613cf617b4ecd573f26e689e25fd0f38.jpg",
+		"summary": "Rise and dine with these creative recipes that will get your morning started on the right foot.",
+		"label": "HEALTH NEWS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna780231",
+				"news.headline": "Protein-packed breakfasts that can help curb cravings",
+				"news.contentcategory": "health",
+				"news.subcat1": "health-news",
+				"news.subcat2": "not available",
+				"news.subcat3": "latest-stories",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2017-07-07T12:14:48Z",
+				"news.modpagepublishdate": "2018-06-12T14:41:00Z",
+				"news.author": "Samantha Cassetty, RD",
+				"news.verticalname": "better",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "mmvo1253077059955",
+		"type": "video",
+		"url": "https://www.nbcnews.com/better/video/triple-crown-winners-talk-about-making-history-with-justify-at-the-belmont-stakes-1253077059955",
+		"headline": "Mock: Triple Crown winners talk about making history with Justify",
+		"published": "2018-06-11T17:50:55Z",
+		"tease": "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201806/d_better_2min_triplecrown_180611.jpg",
+		"summary": "The team behind Triple Crown winning horse Justify - owner Elliott Walden, jockey Mike Smith, and trainer Bob Baffert - talk about what it means to accomplish the rare feat.",
+		"label": "TV",
+		"mpxID": "1253077059955",
+		"duration": "00:02:11",
+		"preview": "http://public.vilynx.com/623b54ae78c4a4d6dc70827758210eae/pro69.viwindow.mp4",
+		"videoUrl": "http://link.theplatform.com/s/2E2eJC/UyXURlzXFAlq?mbr=true\u0026manifest=m3u\u0026metafile=none",
+		"associatedPlaylist": "videoplaylist/mmlsnnd_better",
+		"freeWheel": {
+			"fileName": "d_better_2min_triplecrown3_180611",
+			"target": {
+				"sect": "pop-culture",
+				"topic": "tv"
+			}
+		},
+		"tracking": {
+			"adobe": {
+				"a.media.length": "131",
+				"videocontenttype": "Video",
+				"videocontentsource": "nbcnews",
+				"videopublishdate": "2018-06-11T17:50:55Z",
+				"videotitle": "Triple Crown winners talk about making history with Justify",
+				"videoprogram": "better",
+				"videompxid": "1253077059955",
+				"videocliptype": "broadcast",
+				"videonetwork": "NBC News",
+				"videoguid": "d_better_2min_triplecrown3_180611",
+				"videocontentrating": "positive",
+				"videoplaylist": "Better",
+				"videoplaylistid": "nnd_better"
+			},
+			"nielsen": {
+				"type": "content",
+				"assetid": "d_better_2min_triplecrown3_180611",
+				"crossId2": "d_better_2min_triplecrown3_180611",
+				"program": "better",
+				"title": "Triple Crown winners talk about making history with Justify at the Belmont Stakes",
+				"length": "131",
+				"airdate": "2018-06-11T17:50:55Z",
+				"isfullepisode": "n"
+			},
+			"comscore": {
+				"ns_st_ci": "d_better_2min_triplecrown3_180611",
+				"ns_st_cl": "131000",
+				"ns_st_pu": "nbcnews",
+				"ns_st_pr": "better",
+				"ns_st_ep": "Triple Crown winners talk about making history with Justify",
+				"ns_st_sn": "*null",
+				"ns_st_en": "*null",
+				"ns_st_ge": "News",
+				"ns_st_ti": "*null",
+				"ns_st_ia": "0",
+				"ns_st_ce": "0",
+				"ns_st_ddt": "2018-06-11T17:58:05Z",
+				"ns_st_tdt": "2018-06-11T17:50:55Z"
+			}
+		}
+	}, {
+		"id": "ncna877136",
+		"type": "article",
+		"url": "https://www.nbcnews.com/better/tech/how-much-screen-time-too-much-here-are-limits-10-ncna877136",
+		"headline": "Mock: How much screen time is too much? 10 tech execs (and parents) weigh in",
+		"published": "2018-06-11T16:52:00Z",
+		"tease": "https://media3.s-nbcnews.com/i/newscms/2018_22/2446871/180528-kids-tech-jenn-live-njs-952_bcf081fdeefffc2804af00b93006b972.jpg",
+		"summary": "At work, they promote apps and platforms. At home, they’re just like every other parent: struggling with how much technology to allow their kids to use.",
+		"label": "TECH NEWS",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna877136",
+				"news.headline": "How much screen time is too much? 10 tech execs (and parents) weigh in",
+				"news.contentcategory": "tech",
+				"news.subcat1": "tech-news",
+				"news.subcat2": "not available",
+				"news.subcat3": "culture-matters",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-10T14:33:53Z",
+				"news.modpagepublishdate": "2018-06-11T16:52:00Z",
+				"news.author": "Elizabeth Chuck",
+				"news.verticalname": "better",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}, {
+		"id": "ncna882176",
+		"type": "article",
+		"url": "https://www.nbcnews.com/think/opinion/one-nation-divided-making-america-great-means-putting-end-political-ncna882176",
+		"headline": "Mock: One nation, divided: America won't be great until we abolish political tribalism",
+		"published": "2018-06-12T08:30:00Z",
+		"tease": "https://media3.s-nbcnews.com/i/newscms/2018_24/1552071/160525-trump-protest-jsw-642p_88a4cbe8acda6a2dfe56ea5385ca7517.jpg",
+		"summary": "No country can be successful if it can’t be honest. America needs to be held to its own standards or it will fall under the weight of its own hypocrisy.",
+		"label": "OPINION",
+		"breaking": false,
+		"tracking": {
+			"adobe": {
+				"news.docid": "ncna882176",
+				"news.headline": "One nation, divided: America won't be great until we abolish political tribalism",
+				"news.contentcategory": "opinion",
+				"news.subcat1": "opinion",
+				"news.subcat2": "not available",
+				"news.subcat3": "trump-effect",
+				"news.contentsource": "nbcnews",
+				"news.origpagepublishdate": "2018-06-12T08:30:22Z",
+				"news.modpagepublishdate": "2018-06-12T08:30:00Z",
+				"news.author": "Amy Chua",
+				"news.verticalname": "think",
+				"news.show": "not available",
+				"news.subverticalname": "not available",
+				"news.nativesponsor": "not available"
+			}
+		}
+	}]
+}]
